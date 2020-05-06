@@ -38,10 +38,5 @@ Currently the game is under constricution. The game size is 5gb approx that cant
   padding: 5px;
 }
 
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
+
 </style>
