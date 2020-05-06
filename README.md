@@ -12,9 +12,9 @@ Currently the game is under constricution. The game size is 5gb approx that cant
 ## screenshots
 
 <div class="row">
-    <div class = "column">
+
 <img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(266).png" width="400" height="200">
-        </div>
+    
 <img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(267).png" width="400" height="200">
 <img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(268).png" width="400" height="200">
 <img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(269).png" width="400" height="200">
