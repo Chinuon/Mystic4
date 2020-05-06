@@ -12,7 +12,7 @@ Currently the game is under constricution. The game size is 5gb approx that cant
 ## screenshots
 
 
-<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(266).png">
+<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(266).png" width="300" height="200">
 <img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(267).png">
 <img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(268).png">
 <img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(269).png">
