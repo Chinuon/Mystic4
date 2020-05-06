@@ -12,15 +12,15 @@ Currently the game is under constricution. The game size is 5gb approx that cant
 ## screenshots
 
 
-<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(266).png" width="300" height="200">
-<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(267).png" width="300" height="200">
-<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(268).png" width="300" height="200">
-<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(269).png" width="300" height="200">
-<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(270).png" width="300" height="200">
-<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(271).png" width="300" height="200">
-<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(272).png" width="300" height="200">
-<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(273).png" width="300" height="200">
-<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(274).png" width="300" height="200">
-<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(275).png" width="300" height="200">
-<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(276).png" width="300" height="200">
-<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(277).png" width="300" height="200">
+<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(266).png" width="400" height="200">
+<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(267).png" width="400" height="200">
+<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(268).png" width="400" height="200">
+<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(269).png" width="400" height="200">
+<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(270).png" width="400" height="200">
+<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(271).png" width="400" height="200">
+<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(272).png" width="400" height="200">
+<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(273).png" width="400" height="200">
+<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(274).png" width="400" height="200">
+<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(275).png" width="400" height="200">
+<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(276).png" width="400" height="200">
+<img src="https://github.com/Chinuon/Mystic4/blob/master/Mystic4/Screenshot%20(277).png" width="400" height="200">
