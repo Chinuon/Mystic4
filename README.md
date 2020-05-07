@@ -7,7 +7,9 @@
   <br>
    <a href="https://github.com/Chinuon/Mystic4/issues/new">Report issue</a>
 </p>
-Currently the game is under constricution. The game size is 5gb approx that cant be uploaded on GitHub so for any game releated quaries contact the owner.
+Currently the game is under constricution. The game size is 5gb approx that cant be uploaded on GitHub so for any game releated quaries contact the owner. 
+
+code file has been included. (c++)
 
 ## screenshots
 
