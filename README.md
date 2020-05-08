@@ -1,6 +1,6 @@
 <h1 align="center">Mystic4</h1>
 <p align="center">
-    A 3rd person game made with unreal engine 4
+    It is not just a 3rd person game in unreal engine 4. Its a World that is breathing and living. All the Animals AI are literally alive. They react with the main player with real time day night system. Welcome to the Mystic world.
   <br>
   <a href="#"><strong> -- Learn more -- </strong></a>
   <br>
