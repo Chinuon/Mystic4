@@ -1,6 +1,6 @@
 <h1 align="center">Mystic4</h1>
 <p align="center">
-    It is not just a 3rd person game in unreal engine 4. Its a World that is breathing and living. All the Animals AI are literally alive. They react with the main player with real time day night system. Welcome to the Mystic world.
+    It is not just a 3rd person game in unreal engine 4. Its a World that is breathing and living. All the animals AI are literally alive. They react with the main player with real time day night system. Welcome to the Mystic world.
   <br>
   <a href="#"><strong> -- Learn more -- </strong></a>
   <br>
@@ -14,6 +14,21 @@ code file has been included. (c++)
 ## screenshots
 
 <div class="row">
+            <img src="" width="400" height="200">
+            <img src="" width="400" height="200">
+            <img src="" width="400" height="200">
+            <img src="" width="400" height="200">
+            <img src="" width="400" height="200">
+            <img src="" width="400" height="200">
+            <img src="" width="400" height="200">
+            <img src="" width="400" height="200">
+            <img src="" width="400" height="200">
+            <img src="" width="400" height="200">
+            <img src="" width="400" height="200">
+            <img src="" width="400" height="200">
+            <img src="" width="400" height="200">
+            <img src="" width="400" height="200">
+        <img src="" width="400" height="200">
     <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave2/Screenshot%20(291).png" width="400" height="200">
     <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave2/Screenshot%20(292).png" width="400" height="200">
     <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave2/Screenshot%20(293).png" width="400" height="200">
