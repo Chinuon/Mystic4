@@ -14,21 +14,28 @@ code file has been included. (c++)
 ## screenshots
 
 <div class="row">
-            <img src="" width="400" height="200">
-            <img src="" width="400" height="200">
-            <img src="" width="400" height="200">
-            <img src="" width="400" height="200">
-            <img src="" width="400" height="200">
-            <img src="" width="400" height="200">
-            <img src="" width="400" height="200">
-            <img src="" width="400" height="200">
-            <img src="" width="400" height="200">
-            <img src="" width="400" height="200">
-            <img src="" width="400" height="200">
-            <img src="" width="400" height="200">
-            <img src="" width="400" height="200">
-            <img src="" width="400" height="200">
-        <img src="" width="400" height="200">
+            <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(305).png" width="400" height="200">
+            <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(306).png" width="400" height="200">
+            <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(307).png" width="400" height="200">
+            <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(313).png" width="400" height="200">
+            <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(316).png" width="400" height="200">
+            <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(317).png" width="400" height="200">
+            <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(318).png" width="400" height="200">
+            <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(319).png" width="400" height="200">
+            <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(325).png" width="400" height="200">
+            <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(330).png" width="400" height="200">
+            <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(331).png" width="400" height="200">
+            <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(333).png" width="400" height="200">
+            <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(335).png" width="400" height="200">
+            <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(337).png" width="400" height="200">
+        <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(338).png" width="400" height="200">
+          <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(339).png" width="400" height="200">
+          <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(340).png" width="400" height="200">
+          <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(342).png" width="400" height="200">
+          <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(343).png" width="400" height="200">
+          <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(348).png" width="400" height="200">
+              <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(349).png" width="400" height="200">
+              <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(351).png" width="400" height="200">
     <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave2/Screenshot%20(291).png" width="400" height="200">
     <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave2/Screenshot%20(292).png" width="400" height="200">
     <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave2/Screenshot%20(293).png" width="400" height="200">
