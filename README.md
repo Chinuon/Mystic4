@@ -10,6 +10,7 @@
 Currently the game is under constricution. The game size is 5gb approx that cant be uploaded on GitHub so for any game releated quaries contact the owner. 
 
 code file has been included. (c++)
+The things I have learned using Unreal engine 4 - (visit the end of the page for this)
 
 ## screenshots
 
@@ -78,3 +79,62 @@ code file has been included. (c++)
 
 
 </style>
+
+The things I have learned using Unreal engine 4 - 
+
+feature added - 
+- 1 - AIs(c++).(pawn sensing comp and AI module in built)
+- 2 - Attack animation.
+- 3 - paragons(Kwang , Shinbi , Yin).
+- 4 - character selection screen using widget blueprints.
+- 5 - main menu using widget blueprints.
+- 6 - multiplayer using switch has authority(blueprints).
+- 7 - Particle systems using C++.
+- 8 - made Materials and Materials instance.
+- 9 - Added different types of attacks and ability to character.
+- 10 - Shinbi can literally fly.
+- 11 - God Rays using exponential height fog.
+- 12 - Sound effects.
+- 13 - Screen shake using C++.
+- 14 - Slow motion.
+- 15 - Day and night cycle .(using blueprints)
+- 16 - Character moments refined. (C++)
+- 17 - Animals.(dragon, deer, Fox and Wolves)
+- 18 - Niagara creation .(emitter and system)
+- 19 - Penumbras.
+- 20 - Checkpoints.
+- 21 - Completed level 1 - Trinity archipelago.
+- 22 - Added moon.
+- 23 - Learned how to make sound cues.
+- 24 - added sounds and Niagara effects using add notify.
+- 25 - Learned to make animation montage
+- 26- post process vol
+- 27 - sky box
+- 28 - megascans
+- 29 - sound cues
+- 30 - sound cues random sounds.
+- 31 - add notify in animation asset.
+- 32 - blend space.
+- 33 - adding particule effects using ugameplaystatic c++ in CPP and particlesystem* in h.
+- 34 - adding montage using uabilitysystemcomponent in CPP and gameplay ability in h.
+- 35 - added sounds using c++ gameplay static.h we include.
+- 36 - LOD reduction of triangle.
+- 37 - character moment creation in c++
+- 38 - damage in c++.
+- 39 - guns firing in c++.
+- 40 - cheat code in c++
+- 41 - how to spawn an attach an actor in blueprint nd c++
+- 42 - level streaming
+- 43 - maximo
+- 44 - fbx to montage.
+- 45 - made animation blueprint from animation sequence.
+- 46 - behaviour tree random moment.
+- 47 - random mov using c++
+- 48 - worked with state in event graph of anim BP
+- 49 - creation of blendspace using fbx(anime sequence) and using it in anim BP states.
+- 50 - sequencer/cinematics.
+- 51 - behaviour tree player chase.
+- 52 - landscape
+- 53 - folliage
+- 54 - heightmap
+
