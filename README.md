@@ -10,7 +10,9 @@
 Currently the game is under constricution. The game size is 5gb approx that cant be uploaded on GitHub so for any game releated quaries contact the owner. 
 
 code file has been included. (c++)
-The things I have learned using Unreal engine 4 - (visit the end of the page for this)
+## The things I have learned using Unreal engine 4 - (visit the end of the page for this)
+For youtube video on mystic 4 you can visit my site from where you can find the youtube videos link.
+Also I post my updates on this game daily on my insta and linkedn. You can find the link of my profile from my site.
 
 ## screenshots
 
