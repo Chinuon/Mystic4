@@ -8,7 +8,7 @@
    <a href="https://github.com/Chinuon/Mystic4/issues/new">Report issue</a>
 </p>
 Currently the game is under construction. The game size is 24gb approx that cant be uploaded on GitHub so for any game releated quaries contact the owner. 
-## Watch the devlog here - <a href="https://www.youtube.com/channel/UCprKvfYuzxnSyET7XaAmREQ?view_as=subscriber"> dev log </a>
+## Watch the devlog here - <a href="https://www.youtube.com/channel/UCprKvfYuzxnSyET7XaAmREQ?view_as=subscriber"> Dev log </a>
 
 code file has been included. (c++)
 ## The things I have learned using Unreal engine 4 - (visit the end of the page for this)
