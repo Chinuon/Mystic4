@@ -18,6 +18,7 @@ Also I post my updates on this game daily on my insta and linkedn. You can find 
 ## screenshots
 
 <div class="row">
+   <img src=" https://github.com/Chaitanyassr/Mystic4/blob/master/Screenshot%20(624).png" width="400" height="200">
             <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(305).png" width="400" height="200">
             <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(306).png" width="400" height="200">
             <img src="https://github.com/Chaitanyassr/Mystic4/blob/master/wave3/Screenshot%20(307).png" width="400" height="200">
